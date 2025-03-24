@@ -1,11 +1,10 @@
 ### 🚀 Sobre mí  
-🔸 Estudiante de Desarrollo de Aplicaciones Web 📚
-🔸 0% de WTFs/minuto 🛠
-🔸 C es mi religión, printf mi oración 🙌
+🔸 Estudiante de Desarrollo de Aplicaciones Web 📚<br>
+🔸 0% de WTFs/minuto 🛠<br>
+🔸 C es mi religión, printf mi oración 🙌<br>
 🔸 Si puedes imaginarlo, puedes programarlo! 💫
 
-### 📊 Estadísticas de GitHub  
-![Stats](https://github-readme-stats.vercel.app/api?username=EduardoDavilaZ&show_icons=true&theme=radical)  
+### 📊 Estadísticas de GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDavilaZ&layout=compact&theme=radical)  
 
 ### 📫 Contáctame
