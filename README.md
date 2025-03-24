@@ -1,6 +1,6 @@
 ### 🚀 Sobre mí  
 🔸 Estudiante de Desarrollo de Aplicaciones Web 📚<br>
-🔸 0% de WTFs/minuto 🛠<br>
+🔸 0 WTFs/minuto 🛠<br>
 🔸 C es mi religión, printf mi oración 🙌<br>
 🔸 Si puedes imaginarlo, puedes programarlo! 💫
 
