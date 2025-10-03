@@ -8,5 +8,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDavilaZ&layout=compact&theme=radical)  
 
 ### 📫 Contáctame
-📧 **Correo:** _[edavilazevallos@gmail.com](mailto:edavilazevallos@gmail.com)_  
-🌐 **Blog/Portafolio:** _[eduardodavila.es](https://eduardodavila.es)_ 
+📧 **Correo:** _[edavilazevallos@gmail.com](mailto:edavilazevallos@gmail.com)_
