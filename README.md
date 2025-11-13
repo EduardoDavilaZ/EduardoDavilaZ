@@ -13,5 +13,5 @@
 ### 📈 &nbsp;Gráfico de actividad
 
 <p align="center">
-  <img src="https://github.com/EduardoDavilaZ/EduardoDavilaZ/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%; height:auto;" />
+  <img src="https://raw.githubusercontent.com/EduardoDavilaZ/EduardoDavilaZ/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%; height:auto;" />
 </p>
