@@ -12,12 +12,6 @@
 
 ### 📈 &nbsp;Gráfico de actividad
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zmartinl&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
-
----
-
 <p align="center">
-  <img src="https://github.com/zmartinl/zmartinl/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%; height:auto;" />
+  <img src="https://github.com/EduardoDavilaZ/EduardoDavilaZ/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%; height:auto;" />
 </p>
