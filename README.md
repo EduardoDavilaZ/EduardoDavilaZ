@@ -5,7 +5,7 @@
 🔸 Si puedes imaginarlo, puedes programarlo! 💫
 
 ### 📊 Estadísticas de GitHub
-![Top Langs](https://metrics.lecoq.io/EduardoDavilaZ?template=classic&base=&=languages&languages=1&languages.sections=most-used&languages.limit=8&config.timezone=Europe/Madrid&v=123)
+![Top Langs](https://raw.githubusercontent.com/EduardoDavilaZ/EduardoDavilaZ/main/github-metrics.svg)
 
 ### 📫 Contáctame
 📧 **Correo:** _[edavilazevallos@gmail.com](mailto:edavilazevallos@gmail.com)_
