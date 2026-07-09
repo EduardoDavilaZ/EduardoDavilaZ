@@ -1,12 +1,12 @@
 <p align="center">
 
-<img width="100%" src="./assets/background.svg"/>
+<img width="100%" src="./readme/background.svg"/>
 
 </p>
 
 <p align="center">
 
-<img width="100%" src="./assets/banner.svg"/>
+<img width="100%" src="./readme/banner.svg"/>
 
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 
-<img width="100%" src="./assets/about.svg"/>
+<img width="100%" src="./readme/about.svg"/>
 
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<img width="100%" src="./assets/stack.svg"/>
+<img width="100%" src="./readme/stack.svg"/>
 
 </p>
 
